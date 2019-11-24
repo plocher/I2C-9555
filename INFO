@@ -1,0 +1,8 @@
+title: I2C-9555
+project: I2C-9555
+designer: John Plocher
+fabricated: yes
+fab_date: 2014-04, 2014-07, 2014-08
+status: released
+release: yes
+tags: [eagle, SPCoast]

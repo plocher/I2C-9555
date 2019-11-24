@@ -1,0 +1,7 @@
+I2C PCF8474-based IO Expander with 4x IO4 connections
+
+A compliment to the [I2C-8574-IO] dual 8-bit board, the 9555 offers a 16 bit data path (2x 8-bit ports, port0 and port1)
+This board is slightly cheaper to build (1x 9555 chip -vs- 2x 8574 chips...), but slightly harder to use (unpacking 16 bit words into byte size chunks)
+
+This board was not updated to use IOB daughtercards...
+
